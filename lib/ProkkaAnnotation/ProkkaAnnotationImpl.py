@@ -3,7 +3,7 @@
 import os
 from pprint import pformat
 from ProkkaAnnotation.Util.ProkkaUtils import ProkkaUtils
-from Workspace.WorkspaceClient import Workspace as workspaceService
+from installed_clients.WorkspaceClient import Workspace as workspaceService
 
 #END_HEADER
 
