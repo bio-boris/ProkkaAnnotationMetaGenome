@@ -15,7 +15,7 @@ from Bio.SeqRecord import SeqRecord
 
 from installed_clients.AssemblyUtilClient import AssemblyUtil
 from installed_clients.DataFileUtilClient import DataFileUtil
-from installed_clients.GenomeAnnotationAPIClient import GenomeAnnotationAPI
+from installed_clients.GenomeAnnotationApiClient import GenomeAnnotationAPI
 from installed_clients.GenomeFileUtilClient import GenomeFileUtil
 from installed_clients.KBaseReportClient import KBaseReport
 from installed_clients.WorkspaceClient import Workspace as workspaceService
